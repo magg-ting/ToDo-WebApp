@@ -1,0 +1,31 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-family: "Segoe UI Condensed","Segoe UI","Segoe WP",Tahoma,Arial,sans-serif;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+input[type="submit"] {
+    float: right;
+    font-weight: 700;
+}
+
+.btn-default a{
+    color: inherit;
+}
+
+.btn-warning a{
+    color: inherit;
+    font-weight: 700;
+}
+
+footer{
+    font-weight: 600;
+    font-style: italic;
+}
