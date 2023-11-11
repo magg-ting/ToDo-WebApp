@@ -5,7 +5,7 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2 class="text-center">Create a New To-Do Item</h2>
+<h2 class="text-center well">Create a New To-Do Item</h2>
 
 
 @using (Html.BeginForm()) 
@@ -49,7 +49,7 @@
     </div>
 }
 
-<div>
+<div class="btn-container">
     <button class="btn btn-default">
         @Html.ActionLink("Back to List", "Index")
     </button>

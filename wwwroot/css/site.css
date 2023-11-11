@@ -29,3 +29,13 @@ footer{
     font-weight: 600;
     font-style: italic;
 }
+
+.btn-container{
+    position:relative;
+}
+
+.btn-container .btn-default{
+    position:absolute;
+    top: -4.5rem;
+    left: 5rem;
+}
