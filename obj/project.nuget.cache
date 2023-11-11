@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "n/3SEYII2u/eIA24NPwNLojkgH1XtQwmNNF+d/UhQQRwemvwRGekdqT5/IQgqv4TcGY+COBhBO8ytmC0YIuMUw==",
+  "dgSpecHash": "ba70iAfHsLBMxAlXvYs9EyvN+Zl14clvCA/EepxOwI6F8zVwFm28+esZ9CHreW5PisNp+OueTccnC/2uP/8EbQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\Source\\Repos\\ToDo-WebApp\\todo.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\User\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.19.3\\microsoft.identity.client.extensions.msal.2.19.3.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
